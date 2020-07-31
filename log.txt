@@ -1,0 +1,275 @@
+2020-07-04 19:02:25,192 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:02:25,192 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:10:23,979 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:10:23,980 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:12:41,784 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:12:41,785 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:13:28,417 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:13:28,418 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:15:13,986 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:15:13,987 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:16:21,411 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:16:21,412 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:17:49,371 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:17:49,372 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:19:05,579 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:19:05,581 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:20:44,980 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:20:44,981 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:28:15,453 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:28:15,454 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:30:15,224 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:30:15,224 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:32:04,728 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:32:04,729 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:36:25,283 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:36:25,284 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:38:44,540 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:38:44,541 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:40:22,448 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:40:22,449 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:43:28,101 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:43:28,101 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:45:29,192 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:45:29,193 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:46:57,027 - bot - INFO - Successfully loaded modules: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:46:57,028 - bot - INFO - Using long polling.
+2020-07-04 19:47:29,029 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in process_update
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in <genexpr>
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\handlers.py", line 41, in check_update
+    res = self.filters(message)
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\filters.py", line 65, in __call__
+    return self.filter(message)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\filters.py", line 16, in filter
+    return bool(message.from_user and message.from_user.id in DEV_USERS)
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:47:30,135 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in process_update
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in <genexpr>
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\handlers.py", line 41, in check_update
+    res = self.filters(message)
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\filters.py", line 65, in __call__
+    return self.filter(message)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\filters.py", line 16, in filter
+    return bool(message.from_user and message.from_user.id in DEV_USERS)
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:47:30,486 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in process_update
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in <genexpr>
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\handlers.py", line 41, in check_update
+    res = self.filters(message)
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\filters.py", line 65, in __call__
+    return self.filter(message)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\filters.py", line 16, in filter
+    return bool(message.from_user and message.from_user.id in DEV_USERS)
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:50:33,289 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in process_update
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in <genexpr>
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\handlers.py", line 41, in check_update
+    res = self.filters(message)
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\filters.py", line 65, in __call__
+    return self.filter(message)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\filters.py", line 16, in filter
+    return bool(message.from_user and message.from_user.id in DEV_USERS)
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:50:54,993 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:50:54,993 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:52:03,619 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:52:03,620 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:53:42,475 - bot - INFO - Successfully loaded modules: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:53:42,476 - bot - INFO - Using long polling.
+2020-07-04 19:54:13,599 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in process_update
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in <genexpr>
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\handlers.py", line 41, in check_update
+    res = self.filters(message)
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\filters.py", line 65, in __call__
+    return self.filter(message)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\filters.py", line 16, in filter
+    return bool(message.from_user and message.from_user.id in DEV_USERS)
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:54:13,824 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in process_update
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in <genexpr>
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\handlers.py", line 41, in check_update
+    res = self.filters(message)
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\filters.py", line 65, in __call__
+    return self.filter(message)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\filters.py", line 16, in filter
+    return bool(message.from_user and message.from_user.id in DEV_USERS)
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:54:14,120 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in process_update
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in <genexpr>
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\handlers.py", line 41, in check_update
+    res = self.filters(message)
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\filters.py", line 65, in __call__
+    return self.filter(message)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\filters.py", line 16, in filter
+    return bool(message.from_user and message.from_user.id in DEV_USERS)
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:55:42,862 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 19:55:42,863 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:57:01,403 - bot - INFO - Successfully loaded modules: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 19:57:01,404 - bot - INFO - Using long polling.
+2020-07-04 19:57:21,260 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in process_update
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in <genexpr>
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\handlers.py", line 41, in check_update
+    res = self.filters(message)
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\filters.py", line 65, in __call__
+    return self.filter(message)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\filters.py", line 16, in filter
+    return bool(message.from_user and message.from_user.id in DEV_USERS)
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:58:37,351 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 132, in is_not_admin
+    if user and not is_user_admin(chat, user.id):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:58:37,352 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 132, in is_not_admin
+    if user and not is_user_admin(chat, user.id):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:58:37,352 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\log_channel.py", line 24, in log_action
+    result = func(bot, update, *args, **kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\antiflood.py", line 31, in check_flood
+    if (is_user_admin(chat, user.id)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:58:37,369 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 255, in connected_status
+    return func(bot, update, *args, **kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 132, in is_not_admin
+    if user and not is_user_admin(chat, user.id):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 19:58:38,249 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\global_bans.py", line 332, in enforce_gban
+    if user and not is_user_admin(chat, user.id):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 20:00:11,984 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 20:00:11,985 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 20:01:35,394 - bot - INFO - Successfully loaded modules: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 20:01:35,395 - bot - INFO - Using long polling.
+2020-07-04 20:03:23,835 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 132, in is_not_admin
+    if user and not is_user_admin(chat, user.id):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 20:03:23,835 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 132, in is_not_admin
+    if user and not is_user_admin(chat, user.id):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 20:03:23,835 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\log_channel.py", line 24, in log_action
+    result = func(bot, update, *args, **kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\antiflood.py", line 31, in check_flood
+    if (is_user_admin(chat, user.id)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 20:03:23,848 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 255, in connected_status
+    return func(bot, update, *args, **kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 132, in is_not_admin
+    if user and not is_user_admin(chat, user.id):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 20:03:24,729 - telegram.utils.promise - ERROR - An uncaught error was raised while running the promise
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\utils\promise.py", line 57, in run
+    self._result = self.pooled_function(*self.args, **self.kwargs)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\global_bans.py", line 332, in enforce_gban
+    if user and not is_user_admin(chat, user.id):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\chat_status.py", line 13, in is_user_admin
+    or user_id in SUDO_USERS
+TypeError: 'in <string>' requires string as left operand, not int
+2020-07-04 20:04:40,473 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 20:04:40,474 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 20:06:15,080 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 20:06:15,081 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 20:16:50,417 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 20:16:50,418 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 20:17:56,926 - bot - INFO - Not loading: ['translation', 'rss', 'cleaner', 'feds']
+2020-07-04 20:17:56,927 - bot - INFO - Modules to load: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 20:19:09,326 - bot - INFO - Successfully loaded modules: ['admin', 'afk', 'animation', 'anime', 'antiflood', 'bans', 'blacklist', 'blacklistusers', 'blacklist_stickers', 'chatbot', 'connection', 'currency_converter', 'cust_filters', 'dbcleanup', 'dev', 'disable', 'disasters', 'eval', 'fun', 'fun_strings', 'gettime', 'get_common_chats', 'global_bans', 'grammar_correction', 'gtranslator', 'locks', 'log_channel', 'math', 'misc', 'modules', 'muting', 'notes', 'paste', 'ping', 'purge', 'reactions', 'remote_cmds', 'reporting', 'rules', 'sed', 'shell', 'shout', 'speed_test', 'stickers', 'ud', 'userinfo', 'users', 'wallpaper', 'warns', 'weebify', 'welcome', 'wiki']
+2020-07-04 20:19:09,327 - bot - INFO - Using long polling.
+2020-07-04 20:19:21,969 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in process_update
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 278, in <genexpr>
+    for handler in (x for x in self.handlers[group] if x.check_update(update)):
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\handlers.py", line 41, in check_update
+    res = self.filters(message)
+  File "C:\Users\avinash\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\filters.py", line 65, in __call__
+    return self.filter(message)
+  File "C:\Users\avinash\Documents\GitHub\SaitamaRobot\bot\modules\helper_funcs\filters.py", line 16, in filter
+    return bool(message.from_user and message.from_user.id in DEV_USERS)
+TypeError: 'in <string>' requires string as left operand, not int
